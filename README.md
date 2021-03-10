@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <br />
 <br />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=farizulhammi&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Farizul Hammi Github Stats">
-    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizulhammi&layout=compact&hide_border=true&theme=tokyonight"/>
+    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farizulhammi&layout=compact&hide_border=true"/>
