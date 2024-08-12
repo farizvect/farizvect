@@ -1,6 +1,4 @@
-### Hi there I'm [Farizz](https://github.com/farizvect/) 👋
 
-🌱 starts running node as a validator
 
 <!---
 - 🔭 I’m currently working on ...
@@ -10,6 +8,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
+  
 <br />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=farizvect&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" alt="Farizul Hammi Github Stats">
+-->
